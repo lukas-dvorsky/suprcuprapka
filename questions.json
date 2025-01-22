@@ -8,12 +8,7 @@
     },
     {
       "otazka": "Zásadní manažerské dovednosti, jejichž potřebnost ukázal výzkum provedený R. Katzem jsou:",
-      "odpovedi": [
-        "Vnímaní organizace jako celku vnímání souvislosti s vnějším prostředím, procesní řízení",
-        "Technické, lidské a koncepční dovednosti",
-        "Komunikace, motivovaní, vedení",
-        "Zajišťování vztahů mezi částmi organizace, podpora nadšení a důvěry, řízení podle cílů"
-      ],
+      "odpovedi": ["Vnímaní organizace jako celku vnímání souvislosti s vnějším prostředím, procesní řízení", "Technické, lidské a koncepční dovednosti", "Komunikace, motivovaní, vedení", "Zajišťování vztahů mezi částmi organizace, podpora nadšení a důvěry, řízení podle cílů"],
       "spravne": 0,
       "spatne": 0,
       "spravna_odpoved": "Technické, lidské a koncepční dovednosti"
@@ -41,15 +36,10 @@
     },
     {
       "otazka": "Úspěch, které organizace bude méně závislý na uplatnění efektivního leadershipu?",
-      "odpovedi": [
-        "Vývojové středisko automobilky",
-        "Biofyzikální výzkumný ústav",
-        "Výroba HW s manuálním osazováním",
-        "Fakulta vysoké školy"
-      ],
+      "odpovedi": ["Vývojové středisko automobilky", "Biofyzikální výzkumný ústav", "Výroba HW s manuálním osazovaním", "Fakulta vysoké školy"],
       "spravne": 0,
       "spatne": 0,
-      "spravna_odpoved": "Výroba HW s manuálním osazováním"
+      "spravna_odpoved": "Fakulta vysoké školy"
     },
     {
       "otazka": "Která z níže uvedených položek nepatří mezi 10 vlastnosti pravého vůdce",
@@ -73,7 +63,7 @@
       "spravna_odpoved": "Nezištná"
     },
     {
-      "otazka": "Který z níže uvedených nepatří mezi principy managementu (dle ISO 9000)",
+      "otazka": "Který z níže uvedených nepatří mezi principy managmentu (dle ISO 9000)",
       "odpovedi": ["Procesní přístup", "Systémový přístup", "Orientace na výsledky", "Kontinuální zlepšování"],
       "spravne": 0,
       "spatne": 0,
@@ -81,146 +71,1017 @@
     },
     {
       "otazka": "Čeho se týká pojem účinnosti managementu?",
-      "odpovedi": [
-        "Maximálního dosahování cílů",
-        "Vysoké efektivity",
-        "Dosahování nízkých ztrát zdrojů",
-        "Dosahování cílů"
-      ],
+      "odpovedi": ["Maximálního dosahování cílů", "Vysoké efektivity", "Dosahování nízkých ztrát zdrojů", "Dosahovaní cílů"],
       "spravne": 0,
       "spatne": 0,
-      "spravna_odpoved": "Dosahování cílů"
+      "spravna_odpoved": "Dosahování nízkých ztrát zdrojů"
     },
     {
       "otazka": "Který z důvodů nepatří mezi důvody proč studovat management jak je identifikoval Donnelly a spol.?",
-      "odpovedi": [
-        "Manažeři mají možnost alokovat zdroje společnosti",
-        "Manažeři chtějí dobře uplatnit své znalosti a schopnosti a následně je pro sebe efektivně zúročit",
-        "Manažeři vytvářejí podmínky pro poskytování práce, příjmy, životní styl, komfort, bezpečí, znalosti",
-        "Manažerská práce může přinášet vysoký pocit uspokojení"
-      ],
+      "odpovedi": ["Manažeři mají možnost alokovat zdroje společnosti", "Manažeři chtějí dobře uplatnit své znalosti a schopnosti a následně je pro sebe efektivně zúročit", "Manažeři vytvářejí podmínky pro poskytování práce, příjmy, životní styl, komfort, bezpečí, znalosti", "Manažerská práce může přinášet vysoký pocit uspokojení"],
       "spravne": 0,
       "spatne": 0,
       "spravna_odpoved": "Manažeři chtějí dobře uplatnit své znalosti a schopnosti a následně je pro sebe efektivně zúročit"
     },
     {
-    "otazka": "Jaké je obvyklé členění přístupu „funkce v managementu“?",
-    "odpovedi": [
-        "Plánovaní, organizování, vedení, kontrola",
-        "Plánovaní, organizování, hodnocení lidských zdrojů, kontrola",
-        "Plánovaní, řízení procesů, vedení, kontrola",
-        "Plánování, řízení procesů, vedení, řízení neshod"
-    ],
-    "spravne": 0,
-    "spatne": 0,
-    "spravna_odpoved": "Plánovaní, organizování, vedení, kontrola"
+      "otazka": "Jaké je obvyklé členění přístupu „funkce v managementu“",
+      "odpovedi": ["Plánovaní, organizování, vedení, kontrola", "Plánovaní, organizování, hodnocení lidských zdrojů, kontrola", "Plánovaní, řízení procesů, vedení, kontrola", "Plánování, řízení procesů, vedení, řízení neshod"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Plánovaní, organizování, vedení, kontrola"
     },
     {
-    "otazka": "Čeho se týká pojem účinnost managementu?",
-    "odpovedi": [
-        "Maximálního dosahováni cílů",
-        "Vysoké efektivity",
-        "Dosahování nízkých ztrát zdrojů",
-        "Dosahování cílů"
-    ],
-    "spravne": 0,
-    "spatne": 0,
-    "spravna_odpoved": "Dosahování cílů"
+      "otazka": "Čeho se týká pojem účinnost managementu?",
+      "odpovedi": ["Maximálního dosahováni cílů", "Vysoké efektivity", "Dosahování nízkých ztrát zdrojů", "Dosahování cílů"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Dosahování cílů"
     },
     {
-    "otazka": "V kolika krocích je formulován postup plánovaní podle Koontze?",
-    "odpovedi": [
-        "5",
-        "6",
-        "7",
-        "8"
-    ],
-    "spravne": 0,
-    "spatne": 0,
-    "spravna_odpoved": "8"
+      "otazka": "V kolika krocích je formulován postup plánovaní podle Koontze?",
+      "odpovedi": ["5", "6", "7", "8"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "8"
     },
     {
-    "otazka": "Pro přístup MBO je typický směr stanovování cílů",
-    "odpovedi": [
-        "Směr pouze shora dolů",
-        "Směr zdola nahoru, shora dolů a jejich kombinace",
-        "Směr pouze zdola nahoru",
-        "Směr horizontální"
-    ],
-    "spravne": 0,
-    "spatne": 0,
-    "spravna_odpoved": "Směr zdola nahoru, shora dolů a jejich kombinace"
+      "otazka": "Pro přístup MBO je typický směr stanovování cílů",
+      "odpovedi": ["Směr pouze shora dolů", "Směr zdola nahoru, shora dolů a jejich kombinace", "Směr pouze zdola nahoru", "Směr horizontální"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Směr zdola nahoru, shora dolů a jejich kombinace"
     },
     {
-    "otazka": "Jaký je vztah úkolu, pravomoci a odpovědnosti pracovníka?",
-    "odpovedi": [
-        "Odpovědnost musí být vyšší než pravomoc k danému úkolu",
-        "Pravomoc musí být vždy vyšší než odpovědnost k danému úkolu",
-        "Musí si vzájemně odpovídat",
-        "Odpovědnost a pravomoc nemají žádný vzájemný vztah"
-    ],
-    "spravne": 0,
-    "spatne": 0,
-    "spravna_odpoved": "Musí si vzájemně odpovídat"
+      "otazka": "Jaký je vztah úkolu, pravomoci a odpovědnosti pracovníka?",
+      "odpovedi": ["Odpovědnost musí být vyšší než pravomoc k danému úkolu", "Pravomoc musí být vždy vyšší než odpovědnost k danému úkolu", "Musí si vzájemně odpovídat", "Odpovědnost a pravomoc nemají žádný vzajemný vztah"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Musí si vzájemně odpovídat"
     },
     {
-    "otazka": "Co nepatří mezi znaky integrity osobnosti?",
-    "odpovedi": [
-        "Čestné jednání",
-        "Předvídatelné reakce",
-        "Dobře kontrolované emoce",
-        "Nadčasová komunikace"
-    ],
-    "spravne": 0,
-    "spatne": 0,
-    "spravna_odpoved": "Nadčasová komunikace"
+      "otazka": "Co nepatří mezi znaky integrity osobnosti",
+      "odpovedi": ["Čestné jednání", "Předvídatelné reakce", "Dobře kontrolované emoce", "Nadčasová komunikace"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Nadčasová komunikace"
     },
     {
-    "otazka": "Smyslem předběžné kontroly je především",
-    "odpovedi": [
-        "Předcházení problémům",
-        "Následné řešení problémů",
-        "Samostatné řešení problémů",
-        "Přesun problému do následujícího procesu"
-    ],
-    "spravne": 0,
-    "spatne": 0,
-    "spravna_odpoved": "Předcházení problémům"
+      "otazka": "Smyslem předběžné kontroly je především",
+      "odpovedi": ["Předcházení problémům", "Následné řešení problémů", "Samostatné řešení problémů", "Přesun problému do následujícího procesu"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Předcházení problémům"
     },
     {
-    "otazka": "Kterou z metrik nelze považovat za typickou pro oblast „zákazníci“?",
-    "odpovedi": [
-        "Tržní podíl",
-        "Zmetkovitost",
-        "Úspěšnost nabídkového řízení",
-        "Objem reklamací"
-    ],
-    "spravne": 0,
-    "spatne": 0,
-    "spravna_odpoved": "Zmetkovitost"
+      "otazka": "Kterou z metrik nelze považovat za typickou pro oblast „zákazníci“",
+      "odpovedi": ["Tržní podíl", "Zmetkovitost", "Úspěšnost nabídkového řízení", "Objem reklamací"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Zmetkovitost"
     },
     {
-    "otazka": "Společnost je založena",
-    "odpovedi": [
-        "Společenskou smlouvou podepsanou všemi zakladateli či zakladatelskou listinou vyhotovenou ve formě notářského zápisu v případě jediného zakladatele",
-        "Zapsáním do obchodního rejstříku",
-        "Podáním návrhu na zápis do obchodního rejstříku",
-        "Zapsaním do živnostenského rejstříku"
-    ],
-    "spravne": 0,
-    "spatne": 0,
-    "spravna_odpoved": "Společenskou smlouvou podepsanou všemi zakladateli či zakladatelskou listinou vyhotovenou ve formě notářského zápisu v případě jediného zakladatele"
+      "otazka": "Společnost je založena",
+      "odpovedi": ["Společenskou smlouvou podepsanou všemi zakladateli či zakladatelskou listinou vyhotovenou ve formě notářského zápisu v případě jediného zakladatele", "Zapsáním do obchodního rejstříku", "Podáním návrhu na zápis do obchodního rejstříku", "Zapsaním do živnostenského rejstříku"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Zapsáním do obchodního rejstříku"
     },
     {
-    "otazka": "Proces (podle ISO 9000) je",
-    "odpovedi": [
-        "Soubor vzájemně souvisejících nebo vzájemně se ovlivňujících činnosti, které přeměňují vstupy na výstupy",
-        "Soubor vzájemně souvisejících nebo vzájemně se ovlivňujících činnosti, které efektivně přeměňují vstupy na výstupy",
-        "Soubor souvisejících a ovlivňujících se činností, které vytvářejí výstupy",
-        "Soubor vzájemně souvisejících nebo vzájemně se ovlivňujících činností, které efektivně přeměňuji vstupy na výstupy za použití infrastruktury"
-    ],
-    "spravne": 0,
-    "spatne": 0,
-    "spravna_odpoved": "Soubor vzájemně souvisejících nebo vzájemně se ovlivňujících činnosti, které přeměňují vstupy na výstupy"
+      "otazka": "Proces (podle ISO 9000) je",
+      "odpovedi": ["Soubor vzájemně souvisejících nebo vzájemně se ovlivňujících činnosti, které přeměňují vstupy na výstupy", "Soubor vzájemně souvisejících nebo vzájemně se ovlivňujících činnosti, které efektivně přeměňují vstupy na výstupy", "Soubor souvisejících a ovlivňujících se činností, které vytvářejí výstupy", "Soubor vzájemně souvisejících nebo vzájemně se ovlivňujících činností, které efektivně přeměňuji vstupy na výstupy za použití infrastruktury"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Soubor vzájemně souvisejících nebo vzájemně se ovlivňujících činnosti, které přeměňují vstupy na výstupy"
+    },
+    {
+      "otazka": "Tzv. lidské dovednosti jsou potřebné u manažerů",
+      "odpovedi": ["Vrcholových", "Středných", "První linie", "Všech úrovní"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Všech úrovní"
+    },
+    {
+      "otazka": "Čeho se týká pojem efektivita managementu?",
+      "odpovedi": ["Míry dosahovaní cílů", "Vysoké účinnosti", "Dosahování nízkých ztrát zdrojů", "Vysokých ztrát"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Míry dosahovaní cílů"
+    },
+    {
+      "otazka": "Který důvod nepatří mezi 4 uznávané důvody proč plánujeme",
+      "odpovedi": ["Plány poskytuji směr, jsou-li sdíleny pracovníky, umožnují koordinaci", "Snižují dopad změn – díky tomu, že se dívají dopředu ale zvyšují nejistotu", "Zmenšují plýtvaní, plány redukuji překrývající se činnosti, eliminují se zbytečné činnosti", "Umožňují efektivní kontrolování – víme čeho chceme dosáhnout a můžeme si to zkontrolovat a případně napravit"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Snižují dopad změn – díky tomu, že se dívají dopředu ale zvyšují nejistotu"
+    },
+    {
+      "otazka": "Atributy správně stanovených cílů označované zkratkou jako SMART znamenají",
+      "odpovedi": ["Specifický, měřitelný, vyvážený, reálný, termínovaný", "Společný, měřitelný, vyvážený, reálný, termínovaný", "Specifický, měřitelný, procesní, reálný, termínovaný", "Specifický, měřitelný, vyvážený, neměnný, termínovaný"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Specifický, měřitelný, vyvážený, reálný, termínovaný"
+    },
+    {
+      "otazka": "Které z následujících nepatří mezi 6 pravidel byrokratické organizace, jak je definoval Max Weber?",
+      "odpovedi": ["Veškeré rozhodování se děje podle pevných a víceméně vyčerpávajících obecných pravidel", "Mezi jednotlivými organizacemi existují rozdíly", "Jsou jasně stanovené kompetence jednotlivých pracovníků", "Organizace je koncipována hierarchicky, což umožnuje kontrolu podřízených ze strany nadřízených, a tím také možnost odvolání se vůči jednotlivým rozhodnutím"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Mezi jednotlivými organizacemi existují rozdíly"
+    },
+    {
+      "otazka": "Co rozumí Robbins pojmem rozsah řízení",
+      "odpovedi": ["Rozsah řízení hovoří o tom, kolik lidí může manažer efektivně řídit", "Rozsah řízení udává počet manažerových nadřízených", "Rozsah řízení hovoří o počtu organizačních úrovní organizace", "Rozsah řízení udává počet hierarchických úrovní organizace"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Rozsah řízení hovoří o tom, kolik lidí může manažer efektivně řídit"
+    },
+    {
+      "otazka": "Která z níže jmenovaných položek nepatří mezi extrémní pozice v teorii manažerské mřížky",
+      "odpovedi": ["Ubohý management", "Interkulturální management", "Týmový management", "Management spolku zahrádkářů"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Interkulturální management"
+    },
+    {
+      "otazka": "Která z následujících nepatří mezi situace ve kterých hodnotíme alternativy při rozhodování",
+      "odpovedi": ["Situace určitosti", "Situace rizika", "Situace neurčitosti", "Situace bezpečnosti"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Situace bezpečnosti"
+    },
+    {
+      "otazka": "Výše základního kapitálu společnosti s ručením omezeným musí činit alespoň:",
+      "odpovedi": ["100 000 Kč", "200 000 Kč", "250 000 Kč", "Minimální základní kapitál není stanoven"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "200 000 Kč"
+    },
+    {
+      "otazka": "Který z níže jmenovaných není nástrojem přístupu zvaného „manažerská věda“?",
+      "odpovedi": ["Matematické modelování", "PERT, CPM", "Pravděpodobnost", "Funkce v managementu"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Funkce v managementu"
+    },
+    {
+      "otazka": "Zásadní manažerské dovednosti, jejichž potřebnost ukázal výzkum provedený R. Katzem jsou:",
+      "odpovedi": ["Vnímaní organizace jako celku vnímání souvislosti s vnějším prostředím, procesní řízení", "Technické, lidské a koncepční dovednosti", "Komunikace, motivování, vedení", "Zajišťování vztahů mezi částmi organizace, podpora nadšení a důvěry, řízení podle cílů"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Technické, lidské a koncepční dovednosti"
+    },
+    {
+      "otazka": "Který z níže uvedených pojmů nepatří mezi nástroje kvantitativního přístupu – manažerské vědy?",
+      "odpovedi": ["Matematické modelování", "PERT, CPM", "PDCA", "Pravděpodobnost"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "PDCA"
+    },
+    {
+      "otazka": "Z hlediska možností sdílení plánů v organizaci a zajištění kontinuity plánování jsou nejdůležitější plány",
+      "odpovedi": ["Krátkodobé", "Neformalizované", "Výrobní", "Formalizované"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Formalizované"
+    },
+    {
+      "otazka": "Co je obvykle považováno za strategii?",
+      "odpovedi": ["Je to určení dlouhodobých základních cílů firmy a stanovení nezbytných činností a zdrojů pro", "Je to forma plánu, který všeobecně určuje či objasňuje postupy nebo způsoby uvažování při", "Je to rámec pro rozhodování", "Strategie určuje specifické požadavky na činnosti, které vylučují jakoukoli volnost"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Je to určení dlouhodobých základních cílů firmy a stanovení nezbytných činností a zdrojů pro"
+    },
+    {
+      "otazka": "Který z níže uvedených nepatří mezi principy managementu (dle ISO 9000)?",
+      "odpovedi": ["Zaměření na zákazníka", "Odpovědnost vůči společnosti", "Vedení", "Zapojení pracovníků"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Odpovědnost vůči společnosti"
+    },
+    {
+      "otazka": "Který z níže uvedených položek není považován za zdroj?",
+      "odpovedi": ["Pracovníci", "Znalosti", "Infrastruktura", "Regulátoři"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Regulátoři"
+    },
+    {
+      "otazka": "Který z níže uvedených nepatří mezi principy managementu (dle ISO 9000)?",
+      "odpovedi": ["Budování vzájemně výhodných vztahů", "Rozhodování na základě informací", "Kontinuální zlepšování", "Dlouhodobé plánování"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Dlouhodobé plánování"
+    },
+    {
+      "otazka": "Který z následujících faktorů nepatří mezi měkké faktory, tzv. McKinsey 7S framework?",
+      "odpovedi": ["Style", "Shared values", "Systems", "Skills"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Systems"
+    },
+    {
+      "otazka": "Který z pojmů nepatří mezi 4 tzv. Funkce managementu, jak je definoval Henri Fayol?",
+      "odpovedi": ["plánování", "rozhodování", "vedení", "kontrola"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "rozhodování"
+    },
+    {
+      "otazka": "Který z následujících kroků neuvádí Koontz ve svém postupu plánování?",
+      "odpovedi": ["Identifikace příležitostí", "Porovnání alternativ", "Odvození rizik", "Výběr alternativy"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Odvození rizik"
+    },
+    {
+      "otazka": "Stupeň formalizace jako jedna ze tří organizačních dimenzí podle Donnellyho je vysvětlován následujícími prohlášeními. Které z nich je správné?",
+      "odpovedi": ["Stupeň formalizace vyjadřuje způsob, jakým jsou stanoveny, dodržovány a vynucovány pravidla a postupy konkrétních činností.", "Vysoký stupeň formalizace je v každé organizaci vždy žádoucí.", "Při vysokém stupni formalizace má pracovník minimální volnost v tom, jak bude práce udělána.", "Míra formalizace může být různá i v rámci jedné organizace. Některé činnosti jsou pevně předepsány, u některých mají pracovníci relativní volnost."],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Vysoký stupeň formalizace je v každé organizaci vždy žádoucí."
+    },
+    {
+      "otazka": "Která z následujících položek nepatří mezi aspekty vysoké specializace práce?",
+      "odpovedi": ["Používání specifických metod.", "Proměnlivý charakter práce.", "Nízké požadavky na kvalifikaci.", "Není třeba velké soustředění na práci."],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Proměnlivý charakter práce."
+    },
+    {
+      "otazka": "Která z níže uvedených nepatří mezi manažerské role podle Mintzberg?",
+      "odpovedi": ["Manažer s autoritou", "Risk manažer", "Vůdce", "Budování vztahů"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Risk manažer"
+    },
+    {
+      "otazka": "Která z následujících položek nepatří mezi uznávané typy kontroly z hlediska jejího umístění v procesu?",
+      "odpovedi": ["preventivní", "průběžná", "záměrná", "kontrola zpětnou vazbou"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "záměrná"
+    },
+    {
+      "otazka": "Z hlediska pozice v organizační hierarchii klasifikuje Robbins na:",
+      "odpovedi": ["vrcholové manažery, střední manažery a manažery první linie"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "vrcholové manažery, střední manažery a manažery první linie"
+    },
+    {
+      "otazka": "Který z níže jmenovaných nepatří mezi současné známé přístupy k analýze managementu?",
+      "odpovedi": ["5M"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "5M"
+    },
+    {
+      "otazka": "Která z následujících je definice plánování podle Robbinse?",
+      "odpovedi": ["Plánování je proces, ve kterém jsou definovány cíle organizace, formulovány strategie/postupy pro koordinování činnosti organizace."],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Plánování je proces, ve kterém jsou definovány cíle organizace, formulovány strategie/postupy pro koordinování činnosti organizace."
+    },
+    {
+      "otazka": "Který z pojmů nepatří mezi druhy plánů jak je specifikoval Koontz?",
+      "odpovedi": ["strategická aliance"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "strategická aliance"
+    },
+    {
+      "otazka": "Která činnost nepatří do procesu delegování?",
+      "odpovedi": ["delegování odpovědností na příslušné vyšší organizační úrovně"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "delegování odpovědností na příslušné vyšší organizační úrovně"
+    },
+    {
+      "otazka": "K analýze zahrnuje charakteristiky:",
+      "odpovedi": ["efektivnost, produktivitu, nákladovost a kvalitu", "účinnost, hospodárnost, proces a hodnocení", "účinnost, efektivnost a spokojenost klientů", "žádná z nabízených odpovědí"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "efektivnost, produktivitu, nákladovost a kvalitu"
+    },
+    {
+      "otazka": "Koncept manažerských rolí zahrnuje:",
+      "odpovedi": ["pouze řídící role", "pouze kontrolní role", "interpersonální, informační a rozhodovací role", "interpersonální, rozhodovací a informační role (zdvojení 'informační')"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "interpersonální, informační a rozhodovací role"
+    },
+    {
+      "otazka": "'Shareholder' přístup je dominantně charakterizován:",
+      "odpovedi": ["vlastníky", "dodavateli", "odběrateli", "zaměstnanci"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "vlastníky"
+    },
+    {
+      "otazka": "Hierarchické rozdělení cílů se člení na:",
+      "odpovedi": ["Primární, sekundární a dodatečné", "Strategické, taktické a operativní", "Ekonomické, etické a společenské", "Organizační, dispozitivní a technické"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Strategické, taktické a operativní"
+    },
+    {
+      "otazka": "Měřítka cílů musí být:",
+      "odpovedi": ["pochopitelné a akceptovatelné", "správné a organizovatelné", "organizovatelné a pochopitelné", "přizpůsobitelné a kontrolovatelné"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "pochopitelné a akceptovatelné"
+    },
+    {
+      "otazka": "Požadavky na standard v manažerské kontrole musí splňovat:",
+      "odpovedi": ["měřitelnost, odpovědnost, dosažitelnost", "ovlivňovací, personální a rozhodovací požadavky", "interpersonální, rozhodovací a informační role", "měřitelnost, relevantnost a reálnou dosažitelnost"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "měřitelnost, relevantnost a reálnou dosažitelnost"
+    },
+    {
+      "otazka": "Monitoring nám umožňuje mezi skutečným a plánovaným průběhem při dosahování stanovených cílů:",
+      "odpovedi": ["identifikovat a odstranit disproporce", "plánovat a organizovat kritéria rozhodování", "přizpůsobovat a formulovat úkoly", "ovlivňovat a motivovat pracovníky"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "identifikovat a odstranit disproporce"
+    },
+    {
+      "otazka": "Mezi ovlivňující činitele vnějšího přímého prostředí nepatří:",
+      "odpovedi": ["vstup nových firem", "rivalita v podnikání", "určení zaměstnanců a jejich efektivity", "zákaznické preference"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "určení zaměstnanců a jejich efektivity"
+    },
+    {
+      "otazka": "Do segmentu vnějšího nepřímého prostředí nezahrnujeme:",
+      "odpovedi": ["vliv managementu", "ekonomické vlivy", "vliv technologického rozvoje", "sociální vlivy"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "vliv managementu"
+    },
+    {
+      "otazka": "Budoucí organizace je viděna jako:",
+      "odpovedi": ["dodavatel", "zákazník", "síť", "vztah"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "síť"
+    },
+    {
+      "otazka": "Maticová organizační struktura je ideální řešení:",
+      "odpovedi": ["v případě pro dosažení flexibility organizace", "pro standardní rutinní práce", "je k jednotným", "pro standardní rutinní práce"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "pro dosažení flexibility organizace"
+    },
+    {
+      "otazka": "Princip jednoty vedení (princip jediného odpovědného vedoucího):",
+      "odpovedi": ["je v organizaci uplatňován vždy bez výjimky", "spočívá v tom, že podřízený má pouze jediného přímého nadřízeného", "spočívá v tom, že nadřízený má pouze jednoho přímého podřízeného", "předurčuje nejširší vyjednávání"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "spočívá v tom, že podřízený má pouze jediného přímého nadřízeného"
+    },
+    {
+      "otazka": "Herzbergova teorie obsahuje:",
+      "odpovedi": ["Lidské a nelidské faktory", "Procesní a motivační faktory", "Udržovací a motivační faktory", "Obsahové a udržovací faktory"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Udržovací a motivační faktory"
+    },
+    {
+      "otazka": "Sebedeterminační teorie obsahuje proměnnou:",
+      "odpovedi": ["Velikost", "Autonomii", "Vztahovost", "Oddanost"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Autonomii"
+    },
+    {
+      "otazka": "Leadership spojený s transformačním typem zahrnuje:",
+      "odpovedi": ["Obsah", "Pobídku", "Rozhodnutí", "Charisma"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Charisma"
+    },
+    {
+      "otazka": "Manažerská komunikace musí vždy zajistit:",
+      "odpovedi": ["Dorozumění", "Pobídku", "Rozhodnutí", "Spojení"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Dorozumění"
+    },
+    {
+      "otazka": "Podrobný přístup k rozhodování zahrnuje:",
+      "odpovedi": ["Identifikaci problému", "Procesní specifikaci", "Organizační zajištění", "Vedení problému"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Identifikaci problému"
+    },
+    {
+      "otazka": "Rozhodování za jistoty je charakterizováno tím, že:",
+      "odpovedi": ["Známe všechny informace a důsledky, které nastanou", "Známe budoucí situace a pravděpodobnost, se kterou nastanou", "Neznáme důsledky a nemáme informace, se kterou nastanou", "Neznáme pravděpodobnosti a jistotu, se kterou nastanou"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Známe všechny informace a důsledky, které nastanou"
+    },
+    {
+      "otazka": "Bezhierarchickou interní organizační síťovou strukturu představuje:",
+      "odpovedi": ["Fraktálová organizace", "SBU koncept organizace", "AMEBA", "Franchising"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "AMEBA"
+    },
+    {
+      "otazka": "Manažerská hierarchie obecně zahrnuje:",
+      "odpovedi": ["Vrcholovou, taktickou a operativní úroveň", "Cíle, poslání a vize organizace", "Efektivitu, výkonnost a produktivitu organizace", "Vrchní, průměrnou a spodní linii řízení"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Vrcholovou, taktickou a operativní úroveň"
+    },
+    {
+      "otazka": "Manažerské dovednosti jsou charakterizované:",
+      "odpovedi": ["Administrativní, technickou a analytickou dovedností", "Znalostí cílů, plánů a jejich kontroly", "Dovedností efektivně a produktivně pracovat", "Koncepčními, lidskými a technickými dovednostmi"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Koncepčními, lidskými a technickými dovednostmi"
+    },
+    {
+      "otazka": "Mezi představitele byrokratické koncepce řízení patří:",
+      "odpovedi": ["P. Drucker", "F. Taylor", "E. Mayo", "M. Weber"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "M. Weber"
+    },
+    {
+      "otazka": "Mezi základní manažerské funkce patří:",
+      "odpovedi": ["plánování, organizování, vedení a kontrola", "plánování, organizování, koordinování a kontrola", "plánování, přikazování, vedení a kontrola", "organizování, ovlivňování, vedení a kontrola"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "plánování, organizování, vedení a kontrola"
+    },
+    {
+      "otazka": "Z hlediska základních priorit lze cíle organizace rozčlenit na:",
+      "odpovedi": ["Přímé a nepřímé", "Základní a vedlejší", "Časové a věcné", "Primární a sekundární"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Primární a sekundární"
+    },
+    {
+      "otazka": "Hierarchické rozdělení cílů se člení na:",
+      "odpovedi": ["Primární, sekundární a dodatečné", "Strategické, taktické a operativní", "Ekonomické, etické a společenské", "Organizační, dispozitivní a technické"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Strategické, taktické a operativní"
+    },
+    {
+      "otazka": "Kontrola jako základní manažerské funkce je vymezena prostřednictvím fáze:",
+      "odpovedi": ["stanovením mise s vazbou na prostředí", "plánování kritérií", "stanovením nápravných opatření", "ovlivňováním pracovníků"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "stanovením nápravných opatření"
+    },
+    {
+      "otazka": "Požadavky na standard v manažerské kontrole musí splňovat:",
+      "odpovedi": ["měřitelnost, odpovědnost, dosažitelnost", "ovlivňovací, personální a rozhodovací požadavky", "interoperabilní, rozhodovací a informační roli", "měřitelnost, relevantnost a reálnou dosažitelnost"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "měřitelnost, relevantnost a reálnou dosažitelnost"
+    },
+    {
+      "otazka": "Vymezení vize je charakterizováno:",
+      "odpovedi": ["chováním organizace s jasně vymezeným cílem a způsobem dosažení", "představou kam organizace směřuje a co očekává v budoucnosti", "hospodařením organizace a její budoucí prognózou", "plánováním, realizací a kontrolou úkolů"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "představou kam organizace směřuje a co očekává v budoucnosti"
+    },
+    {
+      "otazka": "Základní znaky poslání tvoří:",
+      "odpovedi": ["Cíle, strategie a jejich dosažení", "Výnosy, náklady a zisk", "Historie, zřetelné schopnosti a prostředí", "Fyzické, hmotné a nehmotné zdroje"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Historie, zřetelné schopnosti a prostředí"
+    },
+    {
+      "otazka": "Mezi fáze manažerské kontroly patří:",
+      "odpovedi": ["organizování manažerů a jejich podřízených", "plánování cílů a strategií", "stanovení měřitelných standardů", "formulaci přístupů k vedení"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "stanovení měřitelných standardů"
+    },
+    {
+      "otazka": "Standard v manažerské kontrole představuje:",
+      "odpovedi": ["kritérium participace a spolupráce zainteresovaných pracovníků", "součet výnosů a nákladů ovlivňující hospodaření", "podíl vstupů a výstupů v rámci předmětu kontrolovaných aktivit", "vyjádření očekávaného výkonu daného cíle"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "vyjádření očekávaného výkonu daného cíle"
+    },
+    {
+      "otazka": "Základní členění prostředí je vymezeno na:",
+      "odpovedi": ["přímou a nepřímou formu", "externí a interní formu", "konkrétní a vágní formu", "plánovací a implementační formu"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "externí a interní formu"
+    },
+    {
+      "otazka": "4E analýze zahrnuje charakteristiky:",
+      "odpovedi": ["efektivnost, produktivitu, nákladovost a etiku", "účelnost, účinnost, hospodárnost a odpovědnost", "účinnost, hospodárnost, pravomoc a odpovědnost", "účelnost, účinnost, efektivitu a hospodárnost"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "účelnost, účinnost, efektivitu a hospodárnost"
+    },
+    {
+      "otazka": "Faktory prosperity v rámci managementu členíme na:",
+      "odpovedi": ["vágní a neměřitelné", "přímé a nepřímé", "účinné a neúčinné", "tvrdé a měkké"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "tvrdé a měkké"
+    },
+    {
+      "otazka": "Koncept manažerských rolí zahrnuje:",
+      "odpovedi": ["plánovací, organizační a kontrolní roli", "ovlivňovací, personální a rozhodovací roli", "interoperabilní, rozhodovací a informační roli", "interpersonální, informační a rozhodovací roli"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "interpersonální, informační a rozhodovací roli"
+    },
+    {
+      "otazka": "\"Shareholder\" přístup je dominantně charakterizován:",
+      "odpovedi": ["vlastníky", "dodavateli", "zaměstnanci", "odběrateli"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "vlastníky"
+    },
+    {
+      "otazka": "Hierarchické rozdělení cílů se člení na:",
+      "odpovedi": ["Primární, sekundární a dodatečné", "Strategické, taktické a operativní", "Ekonomické, etické a společenské", "Organizační, dispozitivní a technické"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Strategické, taktické a operativní"
+    },
+    {
+      "otazka": "Měřítka cílů musí být:",
+      "odpovedi": ["pochopitelné a akceptovatelné", "závazné a organizovatelné", "organizovatelné a pochopitelné", "přizpůsobitelné a kontrolovatelné"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "pochopitelné a akceptovatelné"
+    },
+    {
+      "otazka": "Požadavky na standard v manažerské kontrole musí splňovat:",
+      "odpovedi": ["měřitelnost, odpovědnost, dosažitelnost", "ovlivňovací, personální a rozhodovací požadavky", "interoperabilní, rozhodovací a informační roli", "měřitelnost, relevantnost a reálnou dosažitelnost"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "měřitelnost, relevantnost a reálnou dosažitelnost"
+    },
+    {
+      "otazka": "Monitoring nám umožňuje mezi skutečným a plánovaným průběhem při dosahování stanovených cílů:",
+      "odpovedi": ["identifikovat a odstranit disproporce", "plánovat a organizovat kritéria rozhodování", "přizpůsobovat a formulovat úkoly", "ovlivňovat a motivovat pracovníky"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "identifikovat a odstranit disproporce"
+    },
+    {
+      "otazka": "Mezi ovlivňující činitele vnějšího přímého prostředí nepatří:",
+      "odpovedi": ["vstup nových firem", "rivalita v podnikání", "určení zaměstnanců a jejich efektivity", "zákaznické preference"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "určení zaměstnanců a jejich efektivity"
+    },
+    {
+      "otazka": "Do segmentu vnějšího nepřímého prostředí nezahrnujeme:",
+      "odpovedi": ["vliv managementu", "ekonomické vlivy", "vliv technologického rozvoje", "sociální vlivy"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "vliv managementu"
+    },
+    {
+      "otazka": "Do motivačních teorií zaměřené na obsah patří:",
+      "odpovedi": ["Fiedlerova situační teorie", "Vroomova expektační teorie", "Likertova teorie manažerské mřížky", "Maslowova hierarchie potřeb"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Maslowova hierarchie potřeb"
+    },
+    {
+      "otazka": "Vůdcovské přístupy se od manažerských přístupů liší tím, že kladou důraz na:",
+      "odpovedi": ["disciplínu", "charisma a formulování vizí", "reaktivní chování", "plánování a rozpočtování"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "charisma a formulování vizí"
+    },
+    {
+      "otazka": "K vnitřním odměnám z hlediska vedení nepatří:",
+      "odpovedi": ["Bonusy", "Pochvala", "Uznání", "Kariérní postup"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Bonusy"
+    },
+    {
+      "otazka": "Mezi základní styly vedení nezařazujeme:",
+      "odpovedi": ["Autokratický", "Liberální", "Participativní", "Motivační"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Motivační"
+    },
+    {
+      "otazka": "Formálně logická stránka rozhodování zahrnuje:",
+      "odpovedi": ["Obsah rozhodování", "Rámcový postup rozhodování", "Řešení variant a jejich design", "Návrh řešení, kritérií variant z hlediska obsahu"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Rámcový postup rozhodování"
+    },
+    {
+      "otazka": "Rozhodovací problém je charakterizován:",
+      "odpovedi": ["Existencí odchylky mezi žádoucím a skutečným stavem", "Existencí odchylky mezi plánovaným a chtěným stavem", "Existencí odchylky mezi variantami a kritérii", "Pozitivní odchylkou mezi plánem a kontrolou"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Existencí odchylky mezi žádoucím a skutečným stavem"
+    },
+    {
+      "otazka": "Mezi fáze životního cyklu organizace nepatří fáze:",
+      "odpovedi": ["Embryonická", "Růstová", "Zralosti", "Dospívání"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Dospívání"
+    },
+    {
+      "otazka": "Při rostoucí dynamice vnějšího prostředí organizace je vhodné míru její formalizace:",
+      "odpovedi": ["zvyšovat", "snižovat", "ponechat stejnou", "analyzovat s ohledem na lokalizaci organizace"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "snižovat"
+    },
+    {
+      "otazka": "Delegování by měl manažer využít pro řešení úkolů, které:",
+      "odpovedi": ["jsou mu nepříjemné", "spěchají", "jsou nové", "jsou rutinní"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "jsou rutinní"
+    },
+    {
+      "otazka": "Typickým rysem neoklasického organizačního projektování je:",
+      "odpovedi": ["jasná dělba práce a disciplína", "neignorovat individualitu pracovníka", "existence stabilního prostředí", "centralizované rozhodování"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "neignorovat individualitu pracovníka"
+    },
+    {
+      "otazka": "Mezi typy v rámci kontingenčního přístupu zahrnující strategii nepatří:",
+      "odpovedi": ["prvenství v nákladech", "zaměření", "ofenzivní", "odlišení"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "ofenzivní"
+    },
+    {
+      "otazka": "Vůdcovské přístupy se od manažerských přístupů liší tím, že kladou důraz na:",
+      "odpovedi": ["disciplínu", "charisma a formulování vizí", "reaktivní chování", "plánování a rozpočtování"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "charisma a formulování vizí"
+    },
+    {
+      "otazka": "Mezi autory tzv. manažerské mřížky patří:",
+      "odpovedi": ["R. Likert", "R. Blake", "T. Baťa", "F. Taylor"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "R. Blake"
+    },
+    {
+      "otazka": "Fiedlerova teorie vedení nezahrnuje:",
+      "odpovedi": ["Mezilidské jednání", "Strukturu úkolu", "Vztahy mezi vedoucím a členy", "(Nečitelné – pravděpodobně 'Postoj/Osobnost vedoucího')"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Mezilidské jednání"
+    },
+    {
+      "otazka": "Teorie cesty cíl (House/Evans) zahrnuje soubor situačních požadavků spojených s:",
+      "odpovedi": ["Osobním přístupem", "Obsahem situace", "Procesními vztahy", "Sociálními vztahy"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Procesními vztahy"
+    },
+    {
+      "otazka": "Neprogramové rozhodování je převážně spojeno s úrovní managementu:",
+      "odpovedi": ["vrcholovou", "taktickou", "operativní", "klasickou"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "vrcholovou"
+    },
+    {
+      "otazka": "Agregovaný přístup k rozhodování nezahrnuje:",
+      "odpovedi": ["Analýzu okolí (prostředí)", "Návrh řešení", "Volbu řešení", "Programové rozhodnutí"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Programové rozhodnutí"
+    },
+    {
+      "otazka": "Kultura organizace je vázána na:",
+      "odpovedi": ["dodržování opatření", "sdílené hodnoty", "vnímání vize", "naplňování principů"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "sdílené hodnoty"
+    },
+    {
+      "otazka": "Maticová organizační struktura je ideální řešení:",
+      "odpovedi": ["v případě stabilního prostředí", "pro maximalizaci úspor a rozsahu", "pro dosažení flexibility organizace", "pro zajištění maximální kontroly práce podřízených"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "pro dosažení flexibility organizace"
+    },
+    {
+      "otazka": "Princip jednoty vedení (princip jediného odpovědného vedoucího):",
+      "odpovedi": ["je v organizaci uplatňován vždy bez výjimek", "spočívá v tom, že podřízený má pouze jednoho přímého nadřízeného", "spočívá v tom, že nadřízený má pouze jednoho přímého podřízeného (pravděpodobně chyba v textu - mělo by být 'podřízeného')", "předurčuje komplikovanější vyjednávání"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "spočívá v tom, že podřízený má pouze jednoho přímého nadřízeného"
+    },
+    {
+      "otazka": "Herzbergova teorie obsahuje:",
+      "odpovedi": ["Lidské a nelidské faktory", "Procesní a motivační faktory", "Udržovací a motivační faktory", "Obsahové a udržovací faktory"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Udržovací a motivační faktory"
+    },
+    {
+      "otazka": "Sebedeterminační teorie obsahuje proměnnou:",
+      "odpovedi": ["Velikost", "Autonomii", "Vztahovost", "Oddanost"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Autonomii"
+    },
+    {
+      "otazka": "Leadership spojený s transformačním typem zahrnuje:",
+      "odpovedi": ["Obsah", "Pobilku (pravděpodobně překlep, mělo by být 'Pobídku')", "Rozhodnutí", "Charisma"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Charisma"
+    },
+    {
+      "otazka": "Manažerská komunikace musí vždy zajistit:",
+      "odpovedi": ["Dorozumění", "Pobídku", "Rozhodnutí", "Spojení"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Dorozumění"
+    },
+    {
+      "otazka": "Podrobný přístup k rozhodování zahrnuje:",
+      "odpovedi": ["Identifikaci problému", "Procesní specifikaci", "Organizační zajištění", "Vedení problému"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Identifikaci problému"
+    },
+    {
+      "otazka": "Rozhodování za jistoty je charakterizováno tím, že:",
+      "odpovedi": ["Známe všechny informace a důsledky, které nastanou", "Známe budoucí situace a pravděpodobnost, se kterou nastanou", "Neznáme důsledky a nemáme informace, se kterou nastanou", "Neznáme pravděpodobnosti a jistotu, se kterou nastanou"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Známe všechny informace a důsledky, které nastanou"
+    },
+    {
+      "otazka": "Bezhierarchickou interní organizační síťovou strukturu představuje:",
+      "odpovedi": ["Fraktálová organizace", "SBU koncept organizace", "AMEBA", "Franchising"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "AMEBA"
+    },
+    {
+      "otazka": "Mezi představitelé vědeckého řízení patří:",
+      "odpovedi": ["Drucker", "Taylor", "Mayo", "Ch. Barnard"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Taylor"
+    },
+    {
+      "otazka": "Vymezení vize je charakterizováno:",
+      "odpovedi": ["chováním organizace s jasně vymezeným cílem a způsobem dosažení", "představou kam organizace směřuje a co očekává v budoucnosti", "hospodařením organizace a její budoucí prognózou", "plánováním, realizací a kontrolou úkolů"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "představou kam organizace směřuje a co očekává v budoucnosti"
+    },
+    {
+      "otazka": "Základní znaky poslání tvoří:",
+      "odpovedi": ["Cíle, strategie a jejich dosažení", "Výnosy, náklady a zisk", "Historie, zřetelné schopnosti a prostředí", "Fyzické, hmotné a nehmotné zdroje"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Historie, zřetelné schopnosti a prostředí"
+    },
+    {
+      "otazka": "Mezi fáze manažerské kontroly patří:",
+      "odpovedi": ["organizování manažerů a jejich podřízených", "plánování cílů a strategií", "stanovení měřitelných standardů", "formulaci přístupů k vedení"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "stanovení měřitelných standardů"
+    },
+    {
+      "otazka": "Standard v manažerské kontrole představuje:",
+      "odpovedi": ["kritérium participace a spolupráce zainteresovaných pracovníků", "součet výnosů a nákladů ovlivňující hospodaření", "podíl vstupů a výstupů v rámci předmětu kontrolovaných aktivit", "vyjádření očekávaného výkonu daného cíle"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "vyjádření očekávaného výkonu daného cíle"
+    },
+    {
+      "otazka": "Základní členění prostředí je vymezeno na:",
+      "odpovedi": ["přímou a nepřímou formu", "externí a interní formu", "konkrétní a vágní formu", "plánovací a implementační formu"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "externí a interní formu"
+    },
+    {
+      "otazka": "Vnější prostředí můžeme rozdělit na:",
+      "odpovedi": ["Externí a interní", "Konkrétní a vágní", "přímé a nepřímé", "hmotné a nehmotné"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "přímé a nepřímé"
+    },
+    {
+      "otazka": "Mezi charakteristiky organizační struktury nepatří:",
+      "odpovedi": ["míra decentralizace", "potřeba změny", "dělba práce", "rozpětí řízení"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "potřeba změny"
+    },
+    {
+      "otazka": "Organický přístup v rámci organizačního projektování umožňuje tvorbu volných h. útvarů.",
+      "odpovedi": ["Správná odpověď: pravda"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "pravda"
+    },
+    {
+      "otazka": "V rámci neoklasického organizačního projektování vymezujeme stupeň formálnosti:",
+      "odpovedi": ["vysoký", "střední", "malý", "bezrozměrný"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "malý"
+    },
+    {
+      "otazka": "Do motivačních teorií zaměřených na obsah patří:",
+      "odpovedi": ["Fiedlerova situační teorie", "Vroomova expektační teorie", "Likertova teorie manažerské mřížky", "Maslowova hierarchie potřeb"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Maslowova hierarchie potřeb"
+    },
+    {
+      "otazka": "Vůdcovské přístupy se od manažerských liší tím, že kladou důraz na:",
+      "odpovedi": ["disciplínu", "charisma a formulování vizí", "reaktivní chování", "plánování a rozpočtování"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "charisma a formulování vizí"
+    },
+    {
+      "otazka": "K vnitřním odměnám z hlediska vedení nepatří:",
+      "odpovedi": ["Bonusy", "Pochvala", "Uznání", "Kariérní postup"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Bonusy"
+    },
+    {
+      "otazka": "Mezi základní styly vedení nezařazujeme:",
+      "odpovedi": ["Autokratický", "Liberální", "Participativní", "Motivační"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Motivační"
+    },
+    {
+      "otazka": "Formálně logická stránka rozhodování zahrnuje:",
+      "odpovedi": ["Obsah rozhodování", "Rámcový postup rozhodování", "Řešení variant a jejich design", "Návrh řešení, kritérií variant z hlediska obsahu"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Rámcový postup rozhodování"
+    },
+    {
+      "otazka": "Rozhodovací problém je charakterizován:",
+      "odpovedi": ["Existencí odchylky mezi žádoucím a skutečným stavem", "Existencí odchylky mezi plánovaným a chtěným stavem", "Existencí odchylky mezi variantami a kritérii", "Pozitivní odchylkou mezi plánem a kontrolou"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Existencí odchylky mezi žádoucím a skutečným stavem"
+    },
+    {
+      "otazka": "Mezi fáze životního cyklu organizace nepatří fáze:",
+      "odpovedi": ["Embryonická", "Růstová", "Zralosti", "Dospívání"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Dospívání"
+    },
+    {
+      "otazka": "Manažerská hierarchie obecně zahrnuje:",
+      "odpovedi": ["Vrcholovou, taktickou a operativní úroveň", "Cíle, poslání a vize organizace", "Efektivitu, výkonnost a produktivitu organizace", "Vrchní, průměrnou a spodní linii řízení"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Vrchní, průměrnou a spodní linii řízení"
+    },
+    {
+      "otazka": "Manažerské dovednosti jsou charakterizované:",
+      "odpovedi": ["Administrativní, technickou a analytickou dovedností", "Znalostí cílů, plánů a jejich kontroly", "Dovedností efektivně a produktivně pracovat", "Koncepčními, lidskými a technickými dovednostmi"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Koncepčními, lidskými a technickými dovednostmi"
+    },
+    {
+      "otazka": "Mezi představitele byrokratické koncepce řízení patří:",
+      "odpovedi": ["P. Drucker", "F. Taylor", "E. Mayo", "M. Weber"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "M. Weber"
+    },
+    {
+      "otazka": "Mezi základní manažerské funkce patří:",
+      "odpovedi": ["plánování, organizování, vedení a kontrola", "plánování, organizování, koordinování a kontrola", "plánování, přikazování, vedení a kontrola", "organizování, ovlivňování, vedení a kontrola"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "plánování, organizování, vedení a kontrola"
+    },
+    {
+      "otazka": "Z hlediska základních priorit lze cíle organizace rozčlenit na:",
+      "odpovedi": ["Přímé a nepřímé", "Základní a vedlejší", "Časové a věcné", "Primární a sekundární"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Primární a sekundární"
+    },
+    {
+      "otazka": "Hierarchické rozdělení cílů se člení na:",
+      "odpovedi": ["Primární, sekundární a dodatečné", "Strategické, taktické a operativní", "Ekonomické, etické a společenské", "Organizační, dispozitivní a technické"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Strategické, taktické a operativní"
+    },
+    {
+      "otazka": "Kontrola jako základní manažerské funkce je vymezena prostřednictvím fáze:",
+      "odpovedi": ["stanovením mise s vazbou na prostředí", "plánování kritérií", "stanovením nápravných opatření", "ovlivňováním pracovníků"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "stanovením nápravných opatření"
+    },
+    {
+      "otazka": "Požadavky na standard v manažerské kontrole musí splňovat:",
+      "odpovedi": ["měřitelnost, odpovědnost, dosažitelnost", "ovlivňovací, personální a rozhodovací požadavky", "interoperabilní, rozhodovací a informační roli", "měřitelnost, relevantnost a reálnou dosažitelnost"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "měřitelnost, relevantnost a reálnou dosažitelnost"
+    },
+    {
+      "otazka": "Při rostoucí dynamice vnějšího prostředí je vhodné míru formalizace:",
+      "odpovedi": ["zvyšovat", "snižovat", "Ponechat stejnou", "Analyzovat s ohledem na lokalizaci organizace"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "snižovat"
+    },
+    {
+      "otazka": "Delegování by měl manažer využít při řešení úkolů, které:",
+      "odpovedi": ["jsou nepříjemné", "spěchají", "jsou nové", "jsou rutinní"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "jsou rutinní"
+    },
+    {
+      "otazka": "Typickým rysem neoklasického organizačního projektování je:",
+      "odpovedi": ["jasná dělba práce a disciplína", "neignorovat individuálního pracovníka", "existence stabilního prostředí", "centralizované rozhodování"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "neignorovat individuálního pracovníka"
+    },
+    {
+      "otazka": "Mezi typy v rámci kontingenčního přístupu zahrnující strategii nepatří:",
+      "odpovedi": ["prvenství v nákladech", "zaměření", "ofenzivní", "odlišení"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "ofenzivní"
+    },
+    {
+      "otazka": "Vůdcovské přístupy se od manažerských liší tím, že kladou důraz na:",
+      "odpovedi": ["disciplínu", "charisma a formulování vizí", "reaktivní chování", "plánování a rozpočtování"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "charisma a formulování vizí"
+    },
+    {
+      "otazka": "Mezi autory manažerské mřížky patří:",
+      "odpovedi": ["Likert", "Blake", "Baťa", "Taylor"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Blake"
+    },
+    {
+      "otazka": "Fiedlerova teorie vedení nezahrnuje:",
+      "odpovedi": ["mezilidské jednání", "strukturu úkolu", "vztahy mezi vedoucím a členy", "poziční moc"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "mezilidské jednání"
+    },
+    {
+      "otazka": "Teorie cesta–cíl (House/Evans) zahrnuje soubor situačních požadavků spojených s:",
+      "odpovedi": ["osobním přístupem", "obsahem situace", "procesními vztahy", "sociálními vztahy"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "procesními vztahy"
+    },
+    {
+      "otazka": "Neprogramové rozhodování je převážně spojeno s úrovní managementu:",
+      "odpovedi": ["vrcholovou", "taktickou", "operativní", "klasickou"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "vrcholovou"
+    },
+    {
+        "otazka": "Agregovaný přístup k rozhodování nezahrnuje:",
+        "odpovedi": ["analýzu okolí", "návrh řešení", "volbu řešení", "programové rozhodnutí"],
+        "spravne": 0,
+        "spatne": 0,
+        "spravna_odpoved": "programové rozhodnutí"
     }
-]      
+]
