@@ -230,10 +230,10 @@ function showProgress() {
 
     // Vytvoření buněk pro správné a špatné odpovědi
     const correctCell = document.createElement('td');
-    correctCell.textContent = question.spravne;
+    correctCell.textContent = question.spravne / 2;
 
     const wrongCell = document.createElement('td');
-    wrongCell.textContent = question.spatne;
+    wrongCell.textContent = question.spatne / 2;
 
     // Výpočet procenta úspěšnosti
     const successRateCell = document.createElement('td');
