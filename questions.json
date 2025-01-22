@@ -39,7 +39,7 @@
       "odpovedi": ["Vývojové středisko automobilky", "Biofyzikální výzkumný ústav", "Výroba HW s manuálním osazovaním", "Fakulta vysoké školy"],
       "spravne": 0,
       "spatne": 0,
-      "spravna_odpoved": "Fakulta vysoké školy"
+      "spravna_odpoved": "Výroba HW s manuálním osazovaním"
     },
     {
       "otazka": "Která z níže uvedených položek nepatří mezi 10 vlastnosti pravého vůdce",
@@ -49,11 +49,11 @@
       "spravna_odpoved": "Tvrdohlavost"
     },
     {
-      "otazka": "Co obvykle nepatří mezi korektivní opatření v rámci procesu kontroly",
+      "otazka": "(ZB) Co obvykle nepatří mezi korektivní opatření v rámci procesu kontroly",
       "odpovedi": ["Změna strategie", "Nedostatečné znalosti", "Školení", "Propuštění pracovníků"],
       "spravne": 0,
       "spatne": 0,
-      "spravna_odpoved": "Nedostatečné znalosti"
+      "spravna_odpoved": "Změna strategie"
     },
     {
       "otazka": "Která z následujících položek nepatří mezi uznávané typy kontroly z hlediska jejího umístění v procesu",
@@ -63,25 +63,25 @@
       "spravna_odpoved": "Nezištná"
     },
     {
-      "otazka": "Který z níže uvedených nepatří mezi principy managmentu (dle ISO 9000)",
+      "otazka": "(ZB) Který z níže uvedených nepatří mezi principy managmentu (dle ISO 9000)",
       "odpovedi": ["Procesní přístup", "Systémový přístup", "Orientace na výsledky", "Kontinuální zlepšování"],
       "spravne": 0,
       "spatne": 0,
-      "spravna_odpoved": "Orientace na výsledky"
+      "spravna_odpoved": "Procesní přístup"
     },
     {
-      "otazka": "Čeho se týká pojem účinnosti managementu?",
+      "otazka": "(ZB) Čeho se týká pojem účinnosti managementu?",
       "odpovedi": ["Maximálního dosahování cílů", "Vysoké efektivity", "Dosahování nízkých ztrát zdrojů", "Dosahovaní cílů"],
       "spravne": 0,
       "spatne": 0,
-      "spravna_odpoved": "Dosahování nízkých ztrát zdrojů"
+      "spravna_odpoved": "Dosahovaní cílů"
     },
     {
-      "otazka": "Který z důvodů nepatří mezi důvody proč studovat management jak je identifikoval Donnelly a spol.?",
+      "otazka": "(ZB) Který z důvodů nepatří mezi důvody proč studovat management jak je identifikoval Donnelly a spol.?",
       "odpovedi": ["Manažeři mají možnost alokovat zdroje společnosti", "Manažeři chtějí dobře uplatnit své znalosti a schopnosti a následně je pro sebe efektivně zúročit", "Manažeři vytvářejí podmínky pro poskytování práce, příjmy, životní styl, komfort, bezpečí, znalosti", "Manažerská práce může přinášet vysoký pocit uspokojení"],
       "spravne": 0,
       "spatne": 0,
-      "spravna_odpoved": "Manažeři chtějí dobře uplatnit své znalosti a schopnosti a následně je pro sebe efektivně zúročit"
+      "spravna_odpoved": "Manažerská práce může přinášet vysoký pocit uspokojení"
     },
     {
       "otazka": "Jaké je obvyklé členění přístupu „funkce v managementu“",
@@ -98,11 +98,11 @@
       "spravna_odpoved": "Dosahování cílů"
     },
     {
-      "otazka": "V kolika krocích je formulován postup plánovaní podle Koontze?",
+      "otazka": "(ZB) V kolika krocích je formulován postup plánovaní podle Koontze?",
       "odpovedi": ["5", "6", "7", "8"],
       "spravne": 0,
       "spatne": 0,
-      "spravna_odpoved": "8"
+      "spravna_odpoved": "7"
     },
     {
       "otazka": "Pro přístup MBO je typický směr stanovování cílů",
@@ -140,11 +140,11 @@
       "spravna_odpoved": "Zmetkovitost"
     },
     {
-      "otazka": "Společnost je založena",
+      "otazka": "(ZB) Společnost je založena",
       "odpovedi": ["Společenskou smlouvou podepsanou všemi zakladateli či zakladatelskou listinou vyhotovenou ve formě notářského zápisu v případě jediného zakladatele", "Zapsáním do obchodního rejstříku", "Podáním návrhu na zápis do obchodního rejstříku", "Zapsaním do živnostenského rejstříku"],
       "spravne": 0,
       "spatne": 0,
-      "spravna_odpoved": "Zapsáním do obchodního rejstříku"
+      "spravna_odpoved": "Společenskou smlouvou podepsanou všemi zakladateli či zakladatelskou listinou vyhotovenou ve formě notářského zápisu v případě jediného zakladatele"
     },
     {
       "otazka": "Proces (podle ISO 9000) je",
@@ -210,11 +210,11 @@
       "spravna_odpoved": "Situace bezpečnosti"
     },
     {
-      "otazka": "Výše základního kapitálu společnosti s ručením omezeným musí činit alespoň:",
+      "otazka": "(ZB) Výše základního kapitálu společnosti s ručením omezeným musí činit alespoň:",
       "odpovedi": ["100 000 Kč", "200 000 Kč", "250 000 Kč", "Minimální základní kapitál není stanoven"],
       "spravne": 0,
       "spatne": 0,
-      "spravna_odpoved": "200 000 Kč"
+      "spravna_odpoved": "100 000 Kč"
     },
     {
       "otazka": "Který z níže jmenovaných není nástrojem přístupu zvaného „manažerská věda“?",
@@ -245,11 +245,11 @@
       "spravna_odpoved": "Formalizované"
     },
     {
-      "otazka": "Co je obvykle považováno za strategii?",
+      "otazka": "(ZB) Co je obvykle považováno za strategii?",
       "odpovedi": ["Je to určení dlouhodobých základních cílů firmy a stanovení nezbytných činností a zdrojů pro", "Je to forma plánu, který všeobecně určuje či objasňuje postupy nebo způsoby uvažování při", "Je to rámec pro rozhodování", "Strategie určuje specifické požadavky na činnosti, které vylučují jakoukoli volnost"],
       "spravne": 0,
       "spatne": 0,
-      "spravna_odpoved": "Je to určení dlouhodobých základních cílů firmy a stanovení nezbytných činností a zdrojů pro"
+      "spravna_odpoved": "Je to rámec pro rozhodování"
     },
     {
       "otazka": "Který z níže uvedených nepatří mezi principy managementu (dle ISO 9000)?",
@@ -294,11 +294,11 @@
       "spravna_odpoved": "Odvození rizik"
     },
     {
-      "otazka": "Stupeň formalizace jako jedna ze tří organizačních dimenzí podle Donnellyho je vysvětlován následujícími prohlášeními. Které z nich je správné?",
+      "otazka": "(ZB) Stupeň formalizace jako jedna ze tří organizačních dimenzí podle Donnellyho je vysvětlován následujícími prohlášeními. Které z nich je správné?",
       "odpovedi": ["Stupeň formalizace vyjadřuje způsob, jakým jsou stanoveny, dodržovány a vynucovány pravidla a postupy konkrétních činností.", "Vysoký stupeň formalizace je v každé organizaci vždy žádoucí.", "Při vysokém stupni formalizace má pracovník minimální volnost v tom, jak bude práce udělána.", "Míra formalizace může být různá i v rámci jedné organizace. Některé činnosti jsou pevně předepsány, u některých mají pracovníci relativní volnost."],
       "spravne": 0,
       "spatne": 0,
-      "spravna_odpoved": "Vysoký stupeň formalizace je v každé organizaci vždy žádoucí."
+      "spravna_odpoved": "Míra formalizace může být různá i v rámci jedné organizace. Některé činnosti jsou pevně předepsány, u některých mají pracovníci relativní volnost."
     },
     {
       "otazka": "Která z následujících položek nepatří mezi aspekty vysoké specializace práce?",
@@ -357,11 +357,11 @@
       "spravna_odpoved": "delegování odpovědností na příslušné vyšší organizační úrovně"
     },
     {
-      "otazka": "K analýze zahrnuje charakteristiky:",
+      "otazka": "(ZB) K analýze zahrnuje charakteristiky:",
       "odpovedi": ["efektivnost, produktivitu, nákladovost a kvalitu", "účinnost, hospodárnost, proces a hodnocení", "účinnost, efektivnost a spokojenost klientů", "žádná z nabízených odpovědí"],
       "spravne": 0,
       "spatne": 0,
-      "spravna_odpoved": "efektivnost, produktivitu, nákladovost a kvalitu"
+      "spravna_odpoved": "účinnost, efektivnost a spokojenost klientů"
     },
     {
       "otazka": "Koncept manažerských rolí zahrnuje:",
@@ -553,11 +553,11 @@
       "spravna_odpoved": "představou kam organizace směřuje a co očekává v budoucnosti"
     },
     {
-      "otazka": "Základní znaky poslání tvoří:",
+      "otazka": "(ZB) Základní znaky poslání tvoří:",
       "odpovedi": ["Cíle, strategie a jejich dosažení", "Výnosy, náklady a zisk", "Historie, zřetelné schopnosti a prostředí", "Fyzické, hmotné a nehmotné zdroje"],
       "spravne": 0,
       "spatne": 0,
-      "spravna_odpoved": "Historie, zřetelné schopnosti a prostředí"
+      "spravna_odpoved": "Cíle, strategie a jejich dosažení"
     },
     {
       "otazka": "Mezi fáze manažerské kontroly patří:",
