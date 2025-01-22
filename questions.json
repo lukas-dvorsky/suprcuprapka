@@ -1,0 +1,226 @@
+[
+    {
+      "otazka": "Demingův cyklus vyjadřuje sled následujících typů činnosti zaměřený na zlepšování",
+      "odpovedi": ["Power, do, check, act", "Do, check, act, plan", "Plan, do, check, act", "Do, check, accept, plan"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Plan, do, check, act"
+    },
+    {
+      "otazka": "Zásadní manažerské dovednosti, jejichž potřebnost ukázal výzkum provedený R. Katzem jsou:",
+      "odpovedi": [
+        "Vnímaní organizace jako celku vnímání souvislosti s vnějším prostředím, procesní řízení",
+        "Technické, lidské a koncepční dovednosti",
+        "Komunikace, motivovaní, vedení",
+        "Zajišťování vztahů mezi částmi organizace, podpora nadšení a důvěry, řízení podle cílů"
+      ],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Technické, lidské a koncepční dovednosti"
+    },
+    {
+      "otazka": "Který z níže uvedených pojmů nepatří mezi nástroje kvantitativního přístupu – manažerské vědy",
+      "odpovedi": ["Matematické modelování", "PERT, CPM", "PDCA", "Pravděpodobnost"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "PDCA"
+    },
+    {
+      "otazka": "Který z pojmů nepatří mezi druhy plánu jak je specifikoval Koontz:",
+      "odpovedi": ["Postupy", "Pravidla", "Pojmy", "Programy"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Pojmy"
+    },
+    {
+      "otazka": "Numerické stanovení očekávaných výsledků obvykle nazýváme:",
+      "odpovedi": ["Program", "Poslání", "Rozpočet", "Zápočet"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Rozpočet"
+    },
+    {
+      "otazka": "Úspěch, které organizace bude méně závislý na uplatnění efektivního leadershipu?",
+      "odpovedi": [
+        "Vývojové středisko automobilky",
+        "Biofyzikální výzkumný ústav",
+        "Výroba HW s manuálním osazováním",
+        "Fakulta vysoké školy"
+      ],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Výroba HW s manuálním osazováním"
+    },
+    {
+      "otazka": "Která z níže uvedených položek nepatří mezi 10 vlastnosti pravého vůdce",
+      "odpovedi": ["Skromnost", "Tvrdohlavost", "Otevřenost", "Kreativita"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Tvrdohlavost"
+    },
+    {
+      "otazka": "Co obvykle nepatří mezi korektivní opatření v rámci procesu kontroly",
+      "odpovedi": ["Změna strategie", "Nedostatečné znalosti", "Školení", "Propuštění pracovníků"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Nedostatečné znalosti"
+    },
+    {
+      "otazka": "Která z následujících položek nepatří mezi uznávané typy kontroly z hlediska jejího umístění v procesu",
+      "odpovedi": ["Předběžná", "Nezištná", "Souběžná", "Následná"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Nezištná"
+    },
+    {
+      "otazka": "Který z níže uvedených nepatří mezi principy managementu (dle ISO 9000)",
+      "odpovedi": ["Procesní přístup", "Systémový přístup", "Orientace na výsledky", "Kontinuální zlepšování"],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Orientace na výsledky"
+    },
+    {
+      "otazka": "Čeho se týká pojem účinnosti managementu?",
+      "odpovedi": [
+        "Maximálního dosahování cílů",
+        "Vysoké efektivity",
+        "Dosahování nízkých ztrát zdrojů",
+        "Dosahování cílů"
+      ],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Dosahování cílů"
+    },
+    {
+      "otazka": "Který z důvodů nepatří mezi důvody proč studovat management jak je identifikoval Donnelly a spol.?",
+      "odpovedi": [
+        "Manažeři mají možnost alokovat zdroje společnosti",
+        "Manažeři chtějí dobře uplatnit své znalosti a schopnosti a následně je pro sebe efektivně zúročit",
+        "Manažeři vytvářejí podmínky pro poskytování práce, příjmy, životní styl, komfort, bezpečí, znalosti",
+        "Manažerská práce může přinášet vysoký pocit uspokojení"
+      ],
+      "spravne": 0,
+      "spatne": 0,
+      "spravna_odpoved": "Manažeři chtějí dobře uplatnit své znalosti a schopnosti a následně je pro sebe efektivně zúročit"
+    },
+    {
+    "otazka": "Jaké je obvyklé členění přístupu „funkce v managementu“?",
+    "odpovedi": [
+        "Plánovaní, organizování, vedení, kontrola",
+        "Plánovaní, organizování, hodnocení lidských zdrojů, kontrola",
+        "Plánovaní, řízení procesů, vedení, kontrola",
+        "Plánování, řízení procesů, vedení, řízení neshod"
+    ],
+    "spravne": 0,
+    "spatne": 0,
+    "spravna_odpoved": "Plánovaní, organizování, vedení, kontrola"
+    },
+    {
+    "otazka": "Čeho se týká pojem účinnost managementu?",
+    "odpovedi": [
+        "Maximálního dosahováni cílů",
+        "Vysoké efektivity",
+        "Dosahování nízkých ztrát zdrojů",
+        "Dosahování cílů"
+    ],
+    "spravne": 0,
+    "spatne": 0,
+    "spravna_odpoved": "Dosahování cílů"
+    },
+    {
+    "otazka": "V kolika krocích je formulován postup plánovaní podle Koontze?",
+    "odpovedi": [
+        "5",
+        "6",
+        "7",
+        "8"
+    ],
+    "spravne": 0,
+    "spatne": 0,
+    "spravna_odpoved": "8"
+    },
+    {
+    "otazka": "Pro přístup MBO je typický směr stanovování cílů",
+    "odpovedi": [
+        "Směr pouze shora dolů",
+        "Směr zdola nahoru, shora dolů a jejich kombinace",
+        "Směr pouze zdola nahoru",
+        "Směr horizontální"
+    ],
+    "spravne": 0,
+    "spatne": 0,
+    "spravna_odpoved": "Směr zdola nahoru, shora dolů a jejich kombinace"
+    },
+    {
+    "otazka": "Jaký je vztah úkolu, pravomoci a odpovědnosti pracovníka?",
+    "odpovedi": [
+        "Odpovědnost musí být vyšší než pravomoc k danému úkolu",
+        "Pravomoc musí být vždy vyšší než odpovědnost k danému úkolu",
+        "Musí si vzájemně odpovídat",
+        "Odpovědnost a pravomoc nemají žádný vzájemný vztah"
+    ],
+    "spravne": 0,
+    "spatne": 0,
+    "spravna_odpoved": "Musí si vzájemně odpovídat"
+    },
+    {
+    "otazka": "Co nepatří mezi znaky integrity osobnosti?",
+    "odpovedi": [
+        "Čestné jednání",
+        "Předvídatelné reakce",
+        "Dobře kontrolované emoce",
+        "Nadčasová komunikace"
+    ],
+    "spravne": 0,
+    "spatne": 0,
+    "spravna_odpoved": "Nadčasová komunikace"
+    },
+    {
+    "otazka": "Smyslem předběžné kontroly je především",
+    "odpovedi": [
+        "Předcházení problémům",
+        "Následné řešení problémů",
+        "Samostatné řešení problémů",
+        "Přesun problému do následujícího procesu"
+    ],
+    "spravne": 0,
+    "spatne": 0,
+    "spravna_odpoved": "Předcházení problémům"
+    },
+    {
+    "otazka": "Kterou z metrik nelze považovat za typickou pro oblast „zákazníci“?",
+    "odpovedi": [
+        "Tržní podíl",
+        "Zmetkovitost",
+        "Úspěšnost nabídkového řízení",
+        "Objem reklamací"
+    ],
+    "spravne": 0,
+    "spatne": 0,
+    "spravna_odpoved": "Zmetkovitost"
+    },
+    {
+    "otazka": "Společnost je založena",
+    "odpovedi": [
+        "Společenskou smlouvou podepsanou všemi zakladateli či zakladatelskou listinou vyhotovenou ve formě notářského zápisu v případě jediného zakladatele",
+        "Zapsáním do obchodního rejstříku",
+        "Podáním návrhu na zápis do obchodního rejstříku",
+        "Zapsaním do živnostenského rejstříku"
+    ],
+    "spravne": 0,
+    "spatne": 0,
+    "spravna_odpoved": "Společenskou smlouvou podepsanou všemi zakladateli či zakladatelskou listinou vyhotovenou ve formě notářského zápisu v případě jediného zakladatele"
+    },
+    {
+    "otazka": "Proces (podle ISO 9000) je",
+    "odpovedi": [
+        "Soubor vzájemně souvisejících nebo vzájemně se ovlivňujících činnosti, které přeměňují vstupy na výstupy",
+        "Soubor vzájemně souvisejících nebo vzájemně se ovlivňujících činnosti, které efektivně přeměňují vstupy na výstupy",
+        "Soubor souvisejících a ovlivňujících se činností, které vytvářejí výstupy",
+        "Soubor vzájemně souvisejících nebo vzájemně se ovlivňujících činností, které efektivně přeměňuji vstupy na výstupy za použití infrastruktury"
+    ],
+    "spravne": 0,
+    "spatne": 0,
+    "spravna_odpoved": "Soubor vzájemně souvisejících nebo vzájemně se ovlivňujících činnosti, které přeměňují vstupy na výstupy"
+    }
+]      
